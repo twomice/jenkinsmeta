@@ -10,6 +10,6 @@
 	display: none;
 }
 #bottom-sticker {
-	position: relative;
-	left: 0px;
+	position: relative !important;
+	left: 0px !important;
 }
