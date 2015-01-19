@@ -1,0 +1,8 @@
+/* CSS styles to workaround problems with Jenkins footer
+ * overlaying form elements, as described here:
+ * https://issues.jenkins-ci.org/browse/JENKINS-26312
+ *
+ * This file is included by the "URL of theme CSS" setting
+ * on the Global Configuration page at /configure
+ * which itself is provided by the "Simple Theme" plugin.
+ */
