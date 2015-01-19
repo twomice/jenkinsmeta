@@ -6,3 +6,6 @@
  * on the Global Configuration page at /configure
  * which itself is provided by the "Simple Theme" plugin.
  */
+#footer-container {
+	display: none;
+}
