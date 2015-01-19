@@ -12,4 +12,5 @@
 #bottom-sticker {
 	position: relative !important;
 	left: 0px !important;
+	bottom: 0px !important;
 }
