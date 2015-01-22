@@ -7,7 +7,7 @@
  * which itself is provided by the "Simple Theme" plugin.
  */
 #footer-container {
-	display: none;
+	height: 30px;
 }
 #bottom-sticker {
 	position: relative !important;
